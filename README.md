@@ -16,5 +16,3 @@ Visualize your data in a compelling and actionable manner, empowering stakeholde
 ###### Configuring Alerts using the Data Activator
 Stay ahead of potential issues by setting up alerts and notifications within your Power BI visuals using a new tool called Data Activator.
 
-####### End to End Pipeline Testing
-The complete flow will be tested right from the data ingestion to the data transformation and until the report gets updated with the incoming new data to validate the integrity and performance of your pipelines, ensuring reliability and accuracy.
